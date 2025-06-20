@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , WASIM this side ..👋
 
 - 💻 A passionate Full Stack Developer
 - 🚀 Currently working on MERN and Java Spring Boot projects
@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasim-akhtar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-akhtar&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=wasim-akhtar&theme=radical)](https://git.io/streak-stats)
+![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasim2451&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim2451&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wasim2451&theme=radical)](https://git.io/streak-stats)
 
 ## 🌐 Connect with me
 
