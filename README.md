@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**wasim2451/wasim2451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 A passionate Full Stack Developer
+- 🚀 Currently working on MERN and Java Spring Boot projects
+- 🎯 Focused on Backend Development, APIs, and Authentication
+- 🌱 Currently learning Redux Toolkit & Firebase
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+
+## 📊 GitHub Stats
+
+![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasim-akhtar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim-akhtar&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wasim-akhtar&theme=radical)](https://git.io/streak-stats)
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wasim-akhtar-khan-868525211/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:wasimakhtarkhan2003@gmail.com)
