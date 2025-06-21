@@ -7,48 +7,36 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔥 Passionate about crafting full stack applications (MERN & Spring Boot)
-- 🎯 Focused on **Backend Development**, **APIs**, and **Authentication Systems**
-- 🌱 Currently diving deeper into **Redux Toolkit** & **Firebase**
-- 🛠️ Practicing **DSA**, learning **System Design**, and preparing for tech interviews
-- 🧘 Balanced by faith, discipline, and purpose
-
----
-
-### 🛠 Tech Stack & Tools
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,java,git,vscode&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasim2451&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim2451&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasim2451&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim2451&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wasim2451&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🚀 My GitHub Journey in a Nutshell
+### 🚀 Developer Journey Highlights
 
-```text
-📌 1000+ hours of coding
-🌐 Built & deployed 10+ projects (full-stack & mini apps)
-🛠 Always building, debugging & growing
-✨ On a mission to become a world-class backend engineer
+```txt
+💡 1000+ hours of hands-on coding
+🧠 Self-taught with real-world projects
+🌐 Built 10+ full stack and mini apps
+🎯 Career goal: Backend Engineer @ Top Tech
+📅 Everyday progress > someday perfection
+
 
 ```
 ### 🌐 Let's Connect & Collaborate!
@@ -56,4 +44,4 @@
 
 
 ---
-<p align="center"> <i>"Consistency beats intensity. Every single line of code counts."</i><br/> — Wasim Akhtar </p> <p align="center"> ⭐️ If you like what I do, give me a star on GitHub — it motivates me! </p>
+<p align="center"> <i>"Consistency beats intensity. Every single line of code counts."</i><br/> — Wasim Akhtar Khan </p> <p align="center"> ⭐️ If you like what I do, give me a star on GitHub — it motivates me! </p>
